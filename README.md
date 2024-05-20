@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Front-End 
 - 💞️ I’m looking to collaborate on Software
 - 📫 How to reach me
-     -İnstagram:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
