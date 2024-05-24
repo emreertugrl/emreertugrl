@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript,React Native**
 
-- 📫 How to reach me **emre**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
