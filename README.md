@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **emrertugrl@gmail.com**
+- 📫 How to reach me **emreertugrl7@gmail.com**
 
 - ⚡ Fun fact **I think I'm determined**
 
